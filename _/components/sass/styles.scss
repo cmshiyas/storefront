@@ -1,0 +1,54 @@
+.logo{
+    img{
+        float: left;
+        width: 130px;
+        /* display: block; */
+        padding-right: 30px;
+    }
+}
+
+.text{
+    background-color: #333232;
+    padding: 75px;
+}
+
+
+.header{
+    background-image: url("../../images/plates-header.jpg");  
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+    h1{
+        color: white;
+        font: bold;
+        text-align: center;
+        border-bottom: 2px solid;
+        border-bottom-width: 1px;
+        padding: 10px;
+        display: inline-block;
+
+    }
+
+    p{
+        color: white;        
+    }
+}
+
+.list{
+    img{
+        width:70%;
+        height:70%;
+        padding-top: 30px;
+
+    }
+}
+
+.navbar-inverse {
+    background-color: white;
+    border-color: white;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: black;
+}
+
